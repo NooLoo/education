@@ -1,0 +1,16 @@
+server:
+  port: 5000
+spring:
+  application:
+    name: project-manager
+  thymeleaf:
+    prefix: classpath:/templates/
+    suffix: .html
+    cache: false #开发的时候禁用缓存
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:1000/eureka/
+  instance:
+    prefer-ip-address: true

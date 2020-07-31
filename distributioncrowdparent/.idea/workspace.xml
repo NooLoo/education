@@ -1,0 +1,1437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c218a163-d76f-4308-9269-1e209fb6a73e" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/distribution-crowd-1-common/target/" />
+    <ignored path="$PROJECT_DIR$/distribution-crowd-2-registry-center/target/" />
+    <ignored path="$PROJECT_DIR$/distribution-crowd-3-database-provider/target/" />
+    <ignored path="$PROJECT_DIR$/distribution-crowd-4-redis-provider/target/" />
+    <ignored path="$PROJECT_DIR$/distribution-crowd-5-member-manager/target/" />
+    <ignored path="$PROJECT_DIR$/pro20-Aliyun-shortMsg/target/" />
+    <ignored path="$PROJECT_DIR$/pro-oss/target/" />
+    <ignored path="$PROJECT_DIR$/distribution-crowd-6-project-manager/target/" />
+    <ignored path="$PROJECT_DIR$/distribution-crowd-7-webui/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="distributioncrowdparent">
+      <favorite_root url="com.atguigu.crowd.api.DataBaseOperationRemoteService" module="distributioncrowd1common" type="class" klass="com.intellij.ide.favoritesTreeView.smartPointerPsiNodes.ClassSmartPointerNode" />
+      <favorite_root url="com.atguigu.crowd.controller.MemberController" module="distributioncrowd5membermanager" type="class" klass="com.intellij.ide.favoritesTreeView.smartPointerPsiNodes.ClassSmartPointerNode" />
+      <favorite_root url="com.atguigu.crowd.controller.ProjectController" module="distributioncrowd6projectmanager" type="class" klass="com.intellij.ide.favoritesTreeView.smartPointerPsiNodes.ClassSmartPointerNode" />
+      <favorite_root url="com.atguigu.crowd.handler.MemberHandler" module="distributioncrowd7webui" type="class" klass="com.intellij.ide.favoritesTreeView.smartPointerPsiNodes.ClassSmartPointerNode" />
+    </favorites_list>
+    <favorites_list name="Service">
+      <favorite_root url="com.atguigu.crowd.service.impl.MemberServiceImpl" module="distributioncrowd3databaseprovider" type="class" klass="com.intellij.ide.favoritesTreeView.smartPointerPsiNodes.ClassSmartPointerNode" />
+      <favorite_root url="com.atguigu.crowd.service.impl.ProjectServiceImpl" module="distributioncrowd3databaseprovider" type="class" klass="com.intellij.ide.favoritesTreeView.smartPointerPsiNodes.ClassSmartPointerNode" />
+    </favorites_list>
+    <favorites_list name="Check">
+      <favorite_root url="com.atguigu.crowd.entity.ResultEntity" module="distributioncrowd1common" type="class" klass="com.intellij.ide.favoritesTreeView.smartPointerPsiNodes.ClassSmartPointerNode" />
+    </favorites_list>
+    <favorites_list name="entity">
+      <favorite_root url="file://$PROJECT_DIR$/distribution-crowd-1-common/src/main/java/com/atguigu/crowd/entity/po" module="distributioncrowd1common" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+        <favorite_root url="file://$PROJECT_DIR$/distribution-crowd-1-common/src/main/java/com/atguigu/crowd/entity/po/TagPO.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/distribution-crowd-1-common/src/main/java/com/atguigu/crowd/entity/po/TypePO.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/distribution-crowd-1-common/src/main/java/com/atguigu/crowd/entity/po/MemberPO.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/distribution-crowd-1-common/src/main/java/com/atguigu/crowd/entity/po/ReturnPO.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/distribution-crowd-1-common/src/main/java/com/atguigu/crowd/entity/po/ProjectPO.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/distribution-crowd-1-common/src/main/java/com/atguigu/crowd/entity/po/TagPOExample.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/distribution-crowd-1-common/src/main/java/com/atguigu/crowd/entity/po/TypePOExample.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/distribution-crowd-1-common/src/main/java/com/atguigu/crowd/entity/po/MemberPOExample.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/distribution-crowd-1-common/src/main/java/com/atguigu/crowd/entity/po/ReturnPOExample.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/distribution-crowd-1-common/src/main/java/com/atguigu/crowd/entity/po/ProjectItemPicPO.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/distribution-crowd-1-common/src/main/java/com/atguigu/crowd/entity/po/ProjectPOExample.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/distribution-crowd-1-common/src/main/java/com/atguigu/crowd/entity/po/MemberLaunchInfoPO.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/distribution-crowd-1-common/src/main/java/com/atguigu/crowd/entity/po/MemberConfirmInfoPO.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/distribution-crowd-1-common/src/main/java/com/atguigu/crowd/entity/po/ProjectItemPicPOExample.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/distribution-crowd-1-common/src/main/java/com/atguigu/crowd/entity/po/MemberLaunchInfoPOExample.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/distribution-crowd-1-common/src/main/java/com/atguigu/crowd/entity/po/MemberConfirmInfoPOExample.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+      </favorite_root>
+    </favorites_list>
+    <favorites_list name="START">
+      <favorite_root url="com.atguigu.crowd.RegistryMainType" module="distributioncrowd2registrycenter" type="class" klass="com.intellij.ide.favoritesTreeView.smartPointerPsiNodes.ClassSmartPointerNode" />
+      <favorite_root url="com.atguigu.crowd.DatabaseMainType" module="distributioncrowd3databaseprovider" type="class" klass="com.intellij.ide.favoritesTreeView.smartPointerPsiNodes.ClassSmartPointerNode" />
+      <favorite_root url="com.atguigu.crowd.MemberMainType" module="distributioncrowd5membermanager" type="class" klass="com.intellij.ide.favoritesTreeView.smartPointerPsiNodes.ClassSmartPointerNode" />
+      <favorite_root url="com.atguigu.crowd.RedisMainType" module="distributioncrowd4redisprovider" type="class" klass="com.intellij.ide.favoritesTreeView.smartPointerPsiNodes.ClassSmartPointerNode" />
+      <favorite_root url="com.atguigu.crowd.ProjectMainType" module="distributioncrowd6projectmanager" type="class" klass="com.intellij.ide.favoritesTreeView.smartPointerPsiNodes.ClassSmartPointerNode" />
+    </favorites_list>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/distribution-crowd-5-member-manager/src/main/java/com/atguigu/crowd/controller/MemberController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1959">
+              <caret line="85" column="32" selection-start-line="85" selection-start-column="32" selection-end-line="85" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="docComment;method#register#0;class#MemberController#0" />
+                <element signature="docComment;method#sendCode#0;class#MemberController#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/distribution-crowd-3-database-provider/src/main/java/com/atguigu/crowd/controller/MemberController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="444">
+              <caret line="32" column="24" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/distribution-crowd-3-database-provider/src/main/java/com/atguigu/crowd/controller/ProjectController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/distribution-crowd-4-redis-provider/src/main/java/com/atguigu/crowd/controller/RedisOperationController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1053">
+              <caret line="60" column="39" selection-start-line="60" selection-start-column="39" selection-end-line="60" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/distribution-crowd-1-common/src/main/java/com/atguigu/crowd/entity/ResultEntity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="675">
+              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/distribution-crowd-3-database-provider/src/main/java/com/atguigu/crowd/DatabaseMainType.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="7" column="39" lean-forward="true" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>httpclient</find>
+      <find>Result</find>
+      <find>loginacct</find>
+      <find>resultEntity</find>
+      <find>memberVO</find>
+      <find>192.16</find>
+      <find>MemberVO</find>
+      <find>ReturnVO</find>
+      <find>ProjectVO</find>
+      <find>&lt;head&gt;</find>
+      <find>登录</find>
+      <find>MemberSignSuccessVO</find>
+      <find>退出系统</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pro-oss/pom.xml" />
+        <option value="$PROJECT_DIR$/distribution-crowd-5-member-manager/src/main/java/com/atguigu/crowd/controller/MemberController.java" />
+        <option value="$PROJECT_DIR$/pro-oss/src/main/java/OSSTest.java" />
+        <option value="$PROJECT_DIR$/distribution-crowd-1-common/src/main/java/com/atguigu/crowd/entity/MemberLauchInfoVO.java" />
+        <option value="$PROJECT_DIR$/distribution-crowd-1-common/src/main/java/com/atguigu/crowd/entity/MemberConfirmInfoVO.java" />
+        <option value="$PROJECT_DIR$/distribution-crowd-6-project-manager/src/main/java/com/atguigu/crowd/ProjectMainType.java" />
+        <option value="$PROJECT_DIR$/distribution-crowd-6-project-manager/src/main/resources/generatorConfig.xml" />
+        <option value="$PROJECT_DIR$/distribution-crowd-1-common/pom.xml" />
+        <option value="$PROJECT_DIR$/distribution-crowd-3-database-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/distribution-crowd-1-common/src/main/java/com/atguigu/crowd/entity/PO/ProjectPO.java" />
+        <option value="$PROJECT_DIR$/distribution-crowd-1-common/src/main/java/com/atguigu/crowd/entity/PO/TypePO.java" />
+        <option value="$PROJECT_DIR$/distribution-crowd-1-common/src/main/java/com/atguigu/crowd/entity/PO/TypePOExample.java" />
+        <option value="$PROJECT_DIR$/distribution-crowd-1-common/src/main/java/com/atguigu/crowd/entity/PO/ProjectPOExample.java" />
+        <option value="$PROJECT_DIR$/distribution-crowd-1-common/src/main/java/com/atguigu/crowd/entity/PO/MemberLaunchInfoPOExample.java" />
+        <option value="$PROJECT_DIR$/distribution-crowd-1-common/src/main/java/com/atguigu/crowd/entity/PO/ProjectItemPicPOExample.java" />
+        <option value="$PROJECT_DIR$/distribution-crowd-1-common/src/main/java/com/atguigu/crowd/entity/PO/ReturnPOExample.java" />
+        <option value="$PROJECT_DIR$/distribution-crowd-3-database-provider/src/main/java/com/atguigu/crowd/mapper/TypePOMapper.java" />
+        <option value="$PROJECT_DIR$/distribution-crowd-1-common/src/main/java/com/atguigu/crowd/entity/ProjectVO.java" />
+        <option value="$PROJECT_DIR$/distribution-crowd-1-common/src/main/java/com/atguigu/crowd/entity/ReturnVO.java" />
+        <option value="$PROJECT_DIR$/distribution-crowd-3-database-provider/src/main/java/com/atguigu/crowd/service/api/ProjectService.java" />
+        <option value="$PROJECT_DIR$/distribution-crowd-3-database-provider/src/main/java/com/atguigu/crowd/controller/ProjectController.java" />
+        <option value="$PROJECT_DIR$/distribution-crowd-3-database-provider/src/main/java/com/atguigu/crowd/service/impl/ProjectServiceImpl.java" />
+        <option value="$PROJECT_DIR$/distribution-crowd-6-project-manager/pom.xml" />
+        <option value="$PROJECT_DIR$/distribution-crowd-6-project-manager/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/distribution-crowd-7-webui/pom.xml" />
+        <option value="$PROJECT_DIR$/distribution-crowd-7-webui/src/main/java/com/atguigu/crowd/CrowdMainType.java" />
+        <option value="$PROJECT_DIR$/distribution-crowd-7-webui/src/main/java/com/atguigu/crowd/WebuiMainType.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/distribution-crowd-3-database-provider/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/distribution-crowd-4-redis-provider/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/distribution-crowd-7-webui/src/main/resources/templates/hello.html" />
+        <option value="$PROJECT_DIR$/distribution-crowd-7-webui/src/main/resources/static/resources/index.html" />
+        <option value="$PROJECT_DIR$/distribution-crowd-7-webui/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/distribution-crowd-7-webui/src/main/resources/public/index.html" />
+        <option value="$PROJECT_DIR$/distribution-crowd-1-common/src/main/java/com/atguigu/crowd/api/MemberMangerRemoteService.java" />
+        <option value="$PROJECT_DIR$/distribution-crowd-7-webui/src/main/resources/templates/portal-page.html" />
+        <option value="$PROJECT_DIR$/distribution-crowd-1-common/src/main/java/com/atguigu/crowd/entity/MemberSignSuccessVO.java" />
+        <option value="$PROJECT_DIR$/distribution-crowd-7-webui/src/main/resources/templates/member-login.html" />
+        <option value="$PROJECT_DIR$/distribution-crowd-7-webui/src/main/java/com/atguigu/crowd/handler/PordalHandler.java" />
+        <option value="$PROJECT_DIR$/distribution-crowd-7-webui/src/main/resources/templates/member-center.html" />
+        <option value="$PROJECT_DIR$/distribution-crowd-7-webui/src/main/java/com/atguigu/crowd/handler/MemberHandler.java" />
+        <option value="$PROJECT_DIR$/distribution-crowd-7-webui/src/main/java/com/atguigu/crowd/config/SpringMVCConfig.java" />
+        <option value="$PROJECT_DIR$/distribution-crowd-7-webui/src/main/resources/templates/project-1-start.html" />
+        <option value="$PROJECT_DIR$/distribution-crowd-6-project-manager/src/main/java/com/atguigu/crowd/controller/ProjectController.java" />
+        <option value="$PROJECT_DIR$/distribution-crowd-1-common/src/main/java/com/atguigu/crowd/api/ProjectOperationRemoteService.java" />
+        <option value="$PROJECT_DIR$/distribution-crowd-7-webui/src/main/java/com/atguigu/crowd/handler/ProjectHandler.java" />
+        <option value="$PROJECT_DIR$/distribution-crowd-1-common/src/main/java/com/atguigu/crowd/api/DataBaseOperationRemoteService.java" />
+        <option value="$PROJECT_DIR$/distribution-crowd-2-registry-center/pom.xml" />
+        <option value="$PROJECT_DIR$/distribution-crowd-5-member-manager/src/main/java/com/atguigu/crowd/config/CrowdConfig.java" />
+        <option value="$PROJECT_DIR$/distribution-crowd-1-common/src/main/java/com/atguigu/crowd/util/CrowdConstant.java" />
+        <option value="$PROJECT_DIR$/distribution-crowd-4-redis-provider/src/main/java/com/atguigu/crowd/controller/RedisOperationController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-158" />
+    <option name="y" value="115" />
+    <option name="width" value="1528" />
+    <option name="height" value="1095" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
+      <hideEmptyPackages ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="distributioncrowdparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="distributioncrowdparent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="distributioncrowdparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="distributioncrowdparent" type="462c0819:PsiDirectoryNode" />
+              <item name="distribution-crowd-1-common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="distributioncrowdparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="distributioncrowdparent" type="462c0819:PsiDirectoryNode" />
+              <item name="distribution-crowd-1-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="distributioncrowdparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="distributioncrowdparent" type="462c0819:PsiDirectoryNode" />
+              <item name="distribution-crowd-1-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="distributioncrowdparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="distributioncrowdparent" type="462c0819:PsiDirectoryNode" />
+              <item name="distribution-crowd-1-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="distributioncrowdparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="distributioncrowdparent" type="462c0819:PsiDirectoryNode" />
+              <item name="distribution-crowd-1-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="distributioncrowdparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="distributioncrowdparent" type="462c0819:PsiDirectoryNode" />
+              <item name="distribution-crowd-1-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="distributioncrowdparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="distributioncrowdparent" type="462c0819:PsiDirectoryNode" />
+              <item name="distribution-crowd-1-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="crowd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="distributioncrowdparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="distributioncrowdparent" type="462c0819:PsiDirectoryNode" />
+              <item name="distribution-crowd-1-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="crowd" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="distributioncrowdparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="distributioncrowdparent" type="462c0819:PsiDirectoryNode" />
+              <item name="distribution-crowd-1-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="crowd" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="distributioncrowdparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="distributioncrowdparent" type="462c0819:PsiDirectoryNode" />
+              <item name="distribution-crowd-2-registry-center" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="distributioncrowdparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="distributioncrowdparent" type="462c0819:PsiDirectoryNode" />
+              <item name="distribution-crowd-2-registry-center" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="distributioncrowdparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="distributioncrowdparent" type="462c0819:PsiDirectoryNode" />
+              <item name="distribution-crowd-2-registry-center" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="distributioncrowdparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="distributioncrowdparent" type="462c0819:PsiDirectoryNode" />
+              <item name="distribution-crowd-2-registry-center" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="distributioncrowdparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="distributioncrowdparent" type="462c0819:PsiDirectoryNode" />
+              <item name="distribution-crowd-2-registry-center" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="crowd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="distributioncrowdparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="distributioncrowdparent" type="462c0819:PsiDirectoryNode" />
+              <item name="distribution-crowd-3-database-provider" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="distributioncrowdparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="distributioncrowdparent" type="462c0819:PsiDirectoryNode" />
+              <item name="distribution-crowd-3-database-provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="distributioncrowdparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="distributioncrowdparent" type="462c0819:PsiDirectoryNode" />
+              <item name="distribution-crowd-3-database-provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="distributioncrowdparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="distributioncrowdparent" type="462c0819:PsiDirectoryNode" />
+              <item name="distribution-crowd-3-database-provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="distributioncrowdparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="distributioncrowdparent" type="462c0819:PsiDirectoryNode" />
+              <item name="distribution-crowd-3-database-provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="crowd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="distributioncrowdparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="distributioncrowdparent" type="462c0819:PsiDirectoryNode" />
+              <item name="distribution-crowd-3-database-provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="crowd" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="distributioncrowdparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="distributioncrowdparent" type="462c0819:PsiDirectoryNode" />
+              <item name="distribution-crowd-4-redis-provider" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="distributioncrowdparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="distributioncrowdparent" type="462c0819:PsiDirectoryNode" />
+              <item name="distribution-crowd-4-redis-provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="distributioncrowdparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="distributioncrowdparent" type="462c0819:PsiDirectoryNode" />
+              <item name="distribution-crowd-4-redis-provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="distributioncrowdparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="distributioncrowdparent" type="462c0819:PsiDirectoryNode" />
+              <item name="distribution-crowd-4-redis-provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="distributioncrowdparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="distributioncrowdparent" type="462c0819:PsiDirectoryNode" />
+              <item name="distribution-crowd-4-redis-provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="crowd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="distributioncrowdparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="distributioncrowdparent" type="462c0819:PsiDirectoryNode" />
+              <item name="distribution-crowd-4-redis-provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="crowd" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="distributioncrowdparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="distributioncrowdparent" type="462c0819:PsiDirectoryNode" />
+              <item name="distribution-crowd-5-member-manager" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="distributioncrowdparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="distributioncrowdparent" type="462c0819:PsiDirectoryNode" />
+              <item name="distribution-crowd-5-member-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="distributioncrowdparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="distributioncrowdparent" type="462c0819:PsiDirectoryNode" />
+              <item name="distribution-crowd-5-member-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="distributioncrowdparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="distributioncrowdparent" type="462c0819:PsiDirectoryNode" />
+              <item name="distribution-crowd-5-member-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="distributioncrowdparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="distributioncrowdparent" type="462c0819:PsiDirectoryNode" />
+              <item name="distribution-crowd-5-member-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="crowd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="distributioncrowdparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="distributioncrowdparent" type="462c0819:PsiDirectoryNode" />
+              <item name="distribution-crowd-5-member-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="crowd" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="distributioncrowdparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="distributioncrowdparent" type="462c0819:PsiDirectoryNode" />
+              <item name="distribution-crowd-5-member-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="crowd" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="distributioncrowdparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="distributioncrowdparent" type="462c0819:PsiDirectoryNode" />
+              <item name="distribution-crowd-6-project-manager" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="distributioncrowdparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="distributioncrowdparent" type="462c0819:PsiDirectoryNode" />
+              <item name="distribution-crowd-6-project-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="distributioncrowdparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="distributioncrowdparent" type="462c0819:PsiDirectoryNode" />
+              <item name="distribution-crowd-6-project-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="distributioncrowdparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="distributioncrowdparent" type="462c0819:PsiDirectoryNode" />
+              <item name="distribution-crowd-6-project-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="distributioncrowdparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="distributioncrowdparent" type="462c0819:PsiDirectoryNode" />
+              <item name="distribution-crowd-6-project-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="crowd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="distributioncrowdparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="distributioncrowdparent" type="462c0819:PsiDirectoryNode" />
+              <item name="distribution-crowd-6-project-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="crowd" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="distributioncrowdparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="distributioncrowdparent" type="462c0819:PsiDirectoryNode" />
+              <item name="distribution-crowd-7-webui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="distributioncrowdparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="distributioncrowdparent" type="462c0819:PsiDirectoryNode" />
+              <item name="distribution-crowd-7-webui" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="distributioncrowdparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="distributioncrowdparent" type="462c0819:PsiDirectoryNode" />
+              <item name="distribution-crowd-7-webui" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="distributioncrowdparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="distributioncrowdparent" type="462c0819:PsiDirectoryNode" />
+              <item name="distribution-crowd-7-webui" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="distributioncrowdparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="distributioncrowdparent" type="462c0819:PsiDirectoryNode" />
+              <item name="distribution-crowd-7-webui" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="crowd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="distributioncrowdparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="distributioncrowdparent" type="462c0819:PsiDirectoryNode" />
+              <item name="distribution-crowd-7-webui" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="crowd" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Course" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.44715446" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\Java\distributioncrowdparent\distribution-crowd-3-database-provider\src\main\resources" />
+      <recent name="G:\Java\distributioncrowdparent\distribution-crowd-1-common\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.atguigu.crowd" />
+      <recent name="com.aliyun.api.gateway.demo.util" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\Java\distributioncrowdparent\distribution-crowd-7-webui\src\main\resources\templates" />
+      <recent name="G:\Java\distributioncrowdparent\distribution-crowd-7-webui\src\main\resources\static\resources" />
+      <recent name="G:\Java\distributioncrowdparent\distribution-crowd-1-common\src\main\java\com\atguigu\crowd\entity\po" />
+      <recent name="G:\Java\distributioncrowdparent\distribution-crowd-3-database-provider\src\main\java\com\atguigu\crowd\mapper" />
+      <recent name="G:\Java\distributioncrowdparent\distribution-crowd-3-database-provider\src\main\resources\mybatis\mapper" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+          <option name="enabled" value="false" />
+        </RuleState>
+      </list>
+    </option>
+    <option name="contentProportion" value="0.15030365" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.WebuiMainType">
+    <configuration name="OSSTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OSSTest" />
+      <module name="prooss" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShortMassageTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.crowd.test.ShortMassageTest" />
+      <module name="pro20AliyunshortMsg" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.crowd.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DatabaseMainType" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="distributioncrowd3databaseprovider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.crowd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.crowd.DatabaseMainType" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MemberMainType" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="distributioncrowd5membermanager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.crowd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.crowd.MemberMainType" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProjectMainType" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="distributioncrowd6projectmanager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.crowd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.crowd.ProjectMainType" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedisMainType" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="distributioncrowd4redisprovider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.crowd.entity.po.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.crowd.RedisMainType" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegistryMainType" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="distributioncrowd2registrycenter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.crowd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.crowd.RegistryMainType" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebuiMainType" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="distributioncrowd7webui" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.crowd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.crowd.WebuiMainType" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ShortMassageTest" />
+      <item itemvalue="Application.OSSTest" />
+      <item itemvalue="Spring Boot.WebuiMainType" />
+      <item itemvalue="Spring Boot.ProjectMainType" />
+      <item itemvalue="Spring Boot.DatabaseMainType" />
+      <item itemvalue="Spring Boot.MemberMainType" />
+      <item itemvalue="Spring Boot.RedisMainType" />
+      <item itemvalue="Spring Boot.RegistryMainType" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.OSSTest" />
+        <item itemvalue="Application.ShortMassageTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_FIELDS,SHOW_INTERFACES" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c218a163-d76f-4308-9269-1e209fb6a73e" name="Default Changelist" comment="" />
+      <created>1566519035832</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566519035832</updated>
+      <workItem from="1566519039661" duration="3038000" />
+      <workItem from="1566662793325" duration="946000" />
+      <workItem from="1566783386884" duration="8794000" />
+      <workItem from="1566813276040" duration="15868000" />
+      <workItem from="1566849977143" duration="854000" />
+      <workItem from="1566900147642" duration="8185000" />
+      <workItem from="1566932502405" duration="11665000" />
+      <workItem from="1566956529626" duration="2607000" />
+      <workItem from="1566965040642" duration="2231000" />
+      <workItem from="1566986743574" duration="10881000" />
+      <workItem from="1567001898025" duration="3637000" />
+      <workItem from="1567035025290" duration="6593000" />
+      <workItem from="1567053903383" duration="8344000" />
+      <workItem from="1567094187437" duration="343000" />
+      <workItem from="1567177857735" duration="1518000" />
+      <workItem from="1567185014663" duration="5205000" />
+      <workItem from="1567190550238" duration="194000" />
+      <workItem from="1567191922525" duration="1707000" />
+      <workItem from="1567234675440" duration="9400000" />
+      <workItem from="1567260885748" duration="5112000" />
+      <workItem from="1567298300006" duration="1426000" />
+      <workItem from="1567341343375" duration="595000" />
+      <workItem from="1567565077864" duration="693000" />
+      <workItem from="1567589547352" duration="1227000" />
+      <workItem from="1567642525651" duration="928000" />
+      <workItem from="1567660379951" duration="30000" />
+      <workItem from="1568627963595" duration="955000" />
+      <workItem from="1568629008444" duration="101000" />
+      <workItem from="1568633738740" duration="650000" />
+      <workItem from="1568713083206" duration="18000" />
+      <workItem from="1568795005275" duration="2000" />
+      <workItem from="1569595957530" duration="452000" />
+      <workItem from="1569655147527" duration="175000" />
+      <workItem from="1569836520198" duration="11000" />
+      <workItem from="1570101799190" duration="380000" />
+      <workItem from="1570102257136" duration="18000" />
+      <workItem from="1570260157032" duration="14000" />
+      <workItem from="1570260707251" duration="2845000" />
+      <workItem from="1570278535431" duration="649000" />
+      <workItem from="1570327337124" duration="3425000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="CrowdTest_testSaveValueToRedis - 2019.08.26 at 09h 53m 23s.xml">
+      <configuration name="CrowdTest.testSaveValueToRedis" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CrowdTest_testSaveValueToRedis - 2019.08.26 at 09h 57m 15s.xml">
+      <configuration name="CrowdTest.testSaveValueToRedis" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CrowdTest_testSaveValueToRedis - 2019.08.26 at 09h 58m 43s.xml">
+      <configuration name="CrowdTest.testSaveValueToRedis" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test_testSendCode - 2019.08.26 at 13h 16m 07s.xml">
+      <configuration name="test.testSendCode" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test_testSendCode - 2019.08.26 at 13h 18m 11s.xml">
+      <configuration name="test.testSendCode" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test_testSendCode - 2019.08.26 at 13h 24m 58s.xml">
+      <configuration name="test.testSendCode" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test_testSendCode_(1) - 2019.08.26 at 13h 28m 12s.xml">
+      <configuration name="test.testSendCode (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test_testSendCode_(1) - 2019.08.26 at 13h 31m 51s.xml">
+      <configuration name="test.testSendCode (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test_testSendCode_(1) - 2019.08.26 at 18h 02m 10s.xml">
+      <configuration name="test.testSendCode (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test_testSendCode_(1) - 2019.08.26 at 18h 03m 01s.xml">
+      <configuration name="test.testSendCode (1)" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="121716000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="2062" height="1126" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4855372" visible="true" weight="0.28193614" />
+      <window_info id="Designer" order="1" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info x="720" y="146" width="385" height="995" id="Structure" order="5" sideWeight="0.5144628" side_tool="true" weight="0.28193614" />
+      <window_info active="true" id="Favorites" order="6" sideWeight="0.5144628" side_tool="true" visible="true" weight="0.28193614" />
+      <window_info id="Web" order="7" sideWeight="0.4522613" side_tool="true" weight="0.27944112" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" show_stripe_button="false" weight="0.3959799" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.37185928" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Run Dashboard" order="6" sideWeight="0.499002" weight="0.40502512" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.2964824" />
+      <window_info anchor="bottom" id="Spring" order="8" weight="0.32964823" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32964823" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.500998" side_tool="true" weight="0.45527637" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.499501" weight="0.35376886" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.32964823" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="15" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" order="16" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.23552895" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32984033" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" weight="0.22155689" />
+      <window_info anchor="right" id="Word Book" order="10" side_tool="true" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.0.7.RELEASE/spring-boot-autoconfigure-2.0.7.RELEASE.jar!/org/springframework/boot/autoconfigure/SpringBootApplication.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="35" column="18" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.0.7.RELEASE/spring-boot-autoconfigure-2.0.7.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/AutoConfigurationImportSelector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="68" column="13" selection-start-line="68" selection-start-column="13" selection-end-line="68" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.0.7.RELEASE/spring-boot-autoconfigure-2.0.7.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/AutoConfigurationPackage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.0.7.RELEASE/spring-boot-2.0.7.RELEASE.jar!/org/springframework/boot/SpringBootConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.0.7.RELEASE/spring-boot-2.0.7.RELEASE-sources.jar!/org/springframework/boot/SpringBootConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="42" column="8" selection-start-line="42" selection-start-column="8" selection-end-line="42" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.0.11.RELEASE/spring-context-5.0.11.RELEASE.jar!/org/springframework/context/annotation/Configuration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.0.11.RELEASE/spring-context-5.0.11.RELEASE-sources.jar!/org/springframework/context/annotation/Configuration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="514">
+          <caret line="404" column="5" selection-start-line="404" selection-start-column="5" selection-end-line="404" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.0.11.RELEASE/spring-context-5.0.11.RELEASE-sources.jar!/org/springframework/stereotype/Component.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="43" column="8" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../jdk1.8.0_181/src.zip!/java/lang/annotation/Documented.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.0.7.RELEASE/spring-boot-autoconfigure-2.0.7.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/EnableAutoConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1291">
+          <caret line="82" column="16" lean-forward="true" selection-start-line="82" selection-start-column="16" selection-end-line="82" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.0.7.RELEASE/spring-boot-autoconfigure-2.0.7.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/SpringBootApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="69" column="39" lean-forward="true" selection-start-line="69" selection-start-column="39" selection-end-line="69" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-commons/2.0.2.RELEASE/spring-cloud-commons-2.0.2.RELEASE.jar!/org/springframework/cloud/client/discovery/EnableDiscoveryClient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-commons/2.0.2.RELEASE/spring-cloud-commons-2.0.2.RELEASE-sources.jar!/org/springframework/cloud/client/discovery/EnableDiscoveryClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distribution-crowd-7-webui/src/main/java/com/atguigu/crowd/WebuiMainType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distribution-crowd-7-webui/src/main/java/com/atguigu/crowd/handler/ProjectHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distribution-crowd-3-database-provider/src/main/java/com/atguigu/crowd/service/impl/ProjectServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distribution-crowd-3-database-provider/src/main/java/com/atguigu/crowd/service/impl/MemberServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distribution-crowd-7-webui/src/main/resources/templates/member-login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="60" lean-forward="true" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distribution-crowd-7-webui/src/main/resources/templates/portal-page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="119" column="50" selection-start-line="119" selection-start-column="50" selection-end-line="119" selection-end-column="50" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distribution-crowd-7-webui/src/main/resources/templates/member-center.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-76">
+          <caret line="89" column="22" lean-forward="true" selection-start-line="88" selection-start-column="16" selection-end-line="89" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distribution-crowd-7-webui/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distribution-crowd-7-webui/src/main/java/com/atguigu/crowd/handler/MemberHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="51" column="48" selection-start-line="51" selection-start-column="48" selection-end-line="51" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distribution-crowd-2-registry-center/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="19" column="10" lean-forward="true" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distribution-crowd-2-registry-center/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distribution-crowd-2-registry-center/src/main/java/com/atguigu/crowd/RegistryMainType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distributioncrowdparent.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="41" lean-forward="true" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distribution-crowd-1-common/src/main/java/com/atguigu/crowd/entity/ProjectVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1215">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distribution-crowd-1-common/src/main/java/com/atguigu/crowd/entity/po/MemberConfirmInfoPO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distribution-crowd-1-common/src/main/java/com/atguigu/crowd/entity/MemberConfirmInfoVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distribution-crowd-1-common/src/main/java/com/atguigu/crowd/entity/po/MemberLaunchInfoPO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distribution-crowd-1-common/src/main/java/com/atguigu/crowd/entity/po/MemberPO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distribution-crowd-1-common/src/main/java/com/atguigu/crowd/entity/MemberLauchInfoVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distribution-crowd-1-common/src/main/java/com/atguigu/crowd/entity/MemberVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distribution-crowd-1-common/src/main/java/com/atguigu/crowd/entity/ReturnVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distribution-crowd-1-common/src/main/java/com/atguigu/crowd/api/DataBaseOperationRemoteService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="26" column="31" lean-forward="true" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distribution-crowd-1-common/src/main/java/com/atguigu/crowd/api/MemberMangerRemoteService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distribution-crowd-1-common/src/main/java/com/aliyun/api/gateway/demo/util/HttpUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distribution-crowd-1-common/src/main/java/com/atguigu/crowd/util/CrowdUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="12" column="4" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distribution-crowd-3-database-provider/src/main/resources/mybatis/mapper/MemberPOMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distribution-crowd-1-common/src/main/java/com/atguigu/crowd/util/CrowdConstant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distribution-crowd-3-database-provider/src/main/java/com/atguigu/crowd/mapper/MemberPOMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distribution-crowd-7-webui/src/main/java/com/atguigu/crowd/config/SpringMVCConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distribution-crowd-5-member-manager/src/main/java/com/atguigu/crowd/config/CrowdConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distribution-crowd-6-project-manager/src/main/java/com/atguigu/crowd/controller/ProjectController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2322">
+          <caret line="139" selection-start-line="139" selection-end-line="139" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distribution-crowd-5-member-manager/src/main/java/com/atguigu/crowd/controller/MemberController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1959">
+          <caret line="85" column="32" selection-start-line="85" selection-start-column="32" selection-end-line="85" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;method#register#0;class#MemberController#0" />
+            <element signature="docComment;method#sendCode#0;class#MemberController#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distribution-crowd-4-redis-provider/src/main/java/com/atguigu/crowd/controller/RedisOperationController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1053">
+          <caret line="60" column="39" selection-start-line="60" selection-start-column="39" selection-end-line="60" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distribution-crowd-3-database-provider/src/main/java/com/atguigu/crowd/controller/ProjectController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distribution-crowd-3-database-provider/src/main/java/com/atguigu/crowd/controller/MemberController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="32" column="24" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distribution-crowd-3-database-provider/src/main/java/com/atguigu/crowd/DatabaseMainType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="39" lean-forward="true" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distribution-crowd-1-common/src/main/java/com/atguigu/crowd/entity/ResultEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3786295" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3786295" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3786295" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3786295" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>distributioncrowd7webui</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.44715446" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.44715446" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
